@@ -1,0 +1,26 @@
+h3 {
+    font-size: 100px;
+    color: #00FFFF;
+    font-weight: 800;
+    font-family: Franklin Gothic Medium;
+}
+body {
+    background: #FFFFFF;
+}
+td {
+    border-top-width: 2px;
+    border-top-color: #ffe0c1;
+    background: #FFFFFF;
+}
+.message {
+    font-size: 20px;
+    font-weight: 600;
+}
+.button {
+    color: #fa8072;
+    background: #fffff0;
+}
+.del{
+    color: #000000;
+    background: #ff0000;
+}
